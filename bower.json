@@ -1,0 +1,26 @@
+{
+  "name": "fr4nk",
+  "homepage": "https://github.com/lxyangfan/yhlg-design",
+  "description": "for yhlg design",
+  "main": "",
+  "keywords": [
+    "front-end",
+    "bootstrap",
+    "UI"
+  ],
+  "authors": [
+    "fr4nk YANG"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
